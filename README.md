@@ -25,10 +25,10 @@ This project revolutionizes India's National Social Assistance Program (NSAP) th
 
 The National Social Assistance Program (NSAP) is a welfare initiative by the Government of India to support elderly persons, widows, and individuals with disabilities living below the poverty line. Manual verification leads to:
 
-- ⏰ Delays in benefit delivery
-- ❌ Incorrect scheme allocations  
-- 📈 Scalability issues
-- 💸 Administrative overhead
+-  Delays in benefit delivery
+-  Incorrect scheme allocations  
+-  Scalability issues
+-  Administrative overhead
 
 ---
 
@@ -57,12 +57,12 @@ Our AI-powered system automates the entire eligibility prediction process:
 
 ## Features
 
-- ✅ **Automated Eligibility Assessment**
-- ✅ **Multi-class Scheme Prediction**
-- ✅ **Real-time Processing**
-- ✅ **High Accuracy (98.4%)**
-- ✅ **No-code Deployment**
-- ✅ **Cloud-based Solution**
+-  **Automated Eligibility Assessment**
+-  **Multi-class Scheme Prediction**
+-  **Real-time Processing**
+-  **High Accuracy (98.4%)**
+-  **No-code Deployment**
+-  **Cloud-based Solution**
 
 ---
 
@@ -159,11 +159,11 @@ nsap-eligibility-prediction/
 
 ## Future Enhancements
 
-- 📱 Mobile app for field officers
-- 🌐 Multi-language support
-- 🔗 Aadhaar database integration
-- 📊 Real-time analytics dashboard
-- 🔒 Blockchain verification
+-  Mobile app for field officers
+-  Multi-language support
+-  Aadhaar database integration
+-  Real-time analytics dashboard
+-  Blockchain verification
 
 ---
 
